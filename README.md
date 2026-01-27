@@ -1,4 +1,3 @@
-# 💫 About Me:
 📜As a computer science student, I am interested in the complex structure of the computer world. Programming is one of my passions, but understanding how someone else's work functions is equally important to me in order to further develop my cognitive abilities.
 
 
